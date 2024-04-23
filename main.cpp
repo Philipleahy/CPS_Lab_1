@@ -21,7 +21,7 @@ int main(){
     printf("Hello, Lab 1 Program using recursive function \r\n");
 
     for(int i=0; i<nth_term; i++){
-        printf("%d,", fib(i));
+        printf("%d, ", fib(i));
     }
 
     printf("\r\n");
